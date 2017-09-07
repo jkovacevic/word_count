@@ -1,6 +1,6 @@
 Python file word_count.py counts number of occurrences of words in a given file and displays it to standard output.
 
-Example of usage command line:
+Example of usage in command line:
 python word_count text_example/f4.txt
 
 Assertion error will occur if no filename was provided as command line argument.
